@@ -1,0 +1,1 @@
+{"name":"plugins-marketplace-e2e","owner":{"name":"Nouter QA"},"plugins":[{"name":"sales-kit","source":"./sales-kit","description":"Test plugin with two skills and a command."},{"name":"connectors-kit","source":"./connectors-kit","description":"Test plugin with one skill and two MCP servers."}]}
